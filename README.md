@@ -2,7 +2,9 @@
 Hello, Welcome!
 Il s'agit ici de résoudre certains problèmes d'optimisation tels que le Problème du voyageur de commerce et celui de l'emploi du temps. 
 La description des problèmes se trouve ici: 
+
 Problème du voyageur de commerce: https://fr.wikipedia.org/wiki/Problème_du_voyageur_de_commerce
+
 Problème de l'emploi du temps:
 [[[[
 On a K créneaux horaires, m enseignants et n classes d’élèves.
